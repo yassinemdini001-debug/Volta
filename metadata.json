@@ -1,0 +1,6 @@
+{
+  "name": "VOLTA Street Football",
+  "description": "High-intensity 3D arcade street football and futsal experience across Tunisia and iconic global cages with 3v3/4v4/5v5 formats, Story Mode, VOLTA Arcade, Squads, Avatar customization, and AR/FR/EN localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
